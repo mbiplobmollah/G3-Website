@@ -115,6 +115,28 @@ a{
  .dark3, p{
    color: rgba(114, 114, 114, 1);
  }
+/* feature section related style  */
+
+#feature-section-title{
+    border-left: 8px solid #FF900E;
+    padding-left: 20px;
+}
+
+.feature-card, .feature-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.feature-card{
+    padding: 30px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.feature{
+    gap: 100px;
+}
  /* some facts related style */
  .fact{
     border: 1px solid #FF900E;
@@ -163,6 +185,7 @@ a{
  .sponsor-company img {
     filter: grayscale(100%);
  }
+
 
 
  /* responsive media query  */

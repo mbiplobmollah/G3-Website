@@ -267,7 +267,7 @@ a{
     .our-features{
         margin: 50px auto;
     }
-    .our-features, .facts-container{
+    .our-features, .facts-container,.fact-description{
         text-align: center;
         margin: 0 auto;
     }
